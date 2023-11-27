@@ -699,7 +699,7 @@ int main(int argc, char **argv) {
 	}
 
 	std::string mode = argv[1];
-	std::cout << "Working mode = " << mode<<std::endl;
+//	std::cout << "Working mode = " << mode<<std::endl;
 
 
 
