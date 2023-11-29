@@ -2,5 +2,5 @@
 import os
 
 os.system("../../SU2Chain adjoint_design")
-os.system("./preprocessTrainingData.py")
+#os.system("./preprocessTrainingData.py")
 
